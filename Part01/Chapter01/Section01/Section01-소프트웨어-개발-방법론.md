@@ -298,7 +298,7 @@
 
 :small_blue_diamond: 시제품은 추후 최종 구현 단계에서 골격으로 사용.
 
-(img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.02.png" alt="그림1.1.02"  /)
+<img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.02.png" alt="그림1.1.02"  />
 
 <br />
 
@@ -312,7 +312,7 @@
 
 :small_blue_diamond: 누락 및 추가된 요구사항 반영이 가능.
 
-(img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.03.png" alt="그림1.1.03"  /)
+<img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.03.png" alt="그림1.1.03"  />
 
 <br />
 
