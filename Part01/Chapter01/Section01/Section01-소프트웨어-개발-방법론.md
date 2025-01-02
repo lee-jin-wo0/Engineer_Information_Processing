@@ -286,7 +286,7 @@
 
 :small_blue_diamond: 제품의 기능 보완이 불가능하므로 메뉴얼 작성이 필수적.
 
-<img src="C:\Users\leeji\Desktop\Engineer Information Processing\Part01\Chapter01\Section01\img\그림1.1.01.png" alt="그림1.1.01"  />
+<img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.01.png" alt="그림1.1.01"  />
 
 <br />
 
@@ -298,7 +298,7 @@
 
 :small_blue_diamond: 시제품은 추후 최종 구현 단계에서 골격으로 사용.
 
-![그림1.1.02](C:\Users\leeji\Desktop\Engineer Information Processing\Part01\Chapter01\Section01\img\그림1.1.02.png)
+(img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.02.png" alt="그림1.1.02"  /)
 
 <br />
 
@@ -312,7 +312,7 @@
 
 :small_blue_diamond: 누락 및 추가된 요구사항 반영이 가능.
 
-![그림1.1.03](C:\Users\leeji\Desktop\Engineer Information Processing\Part01\Chapter01\Section01\img\그림1.1.03.png)
+(img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.03.png" alt="그림1.1.03"  /)
 
 <br />
 
@@ -400,7 +400,7 @@
 
 :small_blue_diamond: 스프린트 회고 : 스프린트 진행 자체의 문제점, 개선점 도출.
 
-<img src="C:\Users\leeji\Desktop\Engineer Information Processing\Part01\Chapter01\Section01\img\그림1.1.04.png" alt="그림1.1.04" style="zoom:80%;" />
+<img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.04.png" style="zoom:80%;" />
 
 <br />
 
@@ -436,7 +436,7 @@
 
 :small_blue_diamond: 테스트 과정에서 새로운 요구사항, 오류 등이 발견되면 다음 이터레이션에 반영.
 
-<img src="C:\Users\leeji\Desktop\Engineer Information Processing\Part01\Chapter01\Section01\img\그림1.1.05.png" alt="그림1.1.05" style="zoom:80%;" />
+<img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.05.png" style="zoom:80%;" />
 
 <br />
 
@@ -528,7 +528,7 @@
 
 :small_blue_diamond: 순차, 선택, 반복의 논리 구조 구성으로 프로그램 복잡성을 최소화함.
 
-<img src="C:\Users\leeji\Desktop\Engineer Information Processing\Part01\Chapter01\Section01\img\그림1.1.06.png" alt="그림1.1.06" style="zoom:80%;" />
+<img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.06.png" alt="그림1.1.06" style="zoom:80%;" />
 
 <br />
 
@@ -548,7 +548,7 @@
 
 :small_blue_diamond: ERD를 기반으로 분할 다이어그램, 액션 다이어그램, 의존 다이어그램 등을 활용해 실질적인 시스템을 설계.
 
-<img src="C:\Users\leeji\Desktop\Engineer Information Processing\Part01\Chapter01\Section01\img\그림1.1.07.png" alt="그림1.1.07" style="zoom:67%;" />
+<img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.07.png" style="zoom:67%;" />
 
 <br />
 
@@ -566,7 +566,7 @@
 
 :small_blue_diamond: 객체 지향 방법론의 기본 원칙은 캡슐화, 정보은닉, 추상화, 상속성, 다향성이 있음.
 
-<img src="C:\Users\leeji\Desktop\Engineer Information Processing\Part01\Chapter01\Section01\img\그림1.1.08.png" alt="그림1.1.08" style="zoom:80%;" />
+<img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.08.png" style="zoom:80%;" />
 
 <br />
 
@@ -602,7 +602,7 @@
 
 :small_blue_diamond: 선행 투자 비용이 높고, 조립식 시스템에 따르는 책임 및 지적 재산권을 고려.
 
-<img src="C:\Users\leeji\Desktop\Engineer Information Processing\Part01\Chapter01\Section01\img\그림1.1.09.png" alt="그림1.1.09" style="zoom:80%;" />
+<img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.09.png" style="zoom:80%;" />
 
 <br />
 
@@ -632,7 +632,7 @@
 
 :small_blue_diamond: 두 공학을 연계하기 위한 제품 요구사항, 제품 아키텍처, 제품의 조립 생산이 필요.
 
-<img src="C:\Users\leeji\Desktop\Engineer Information Processing\Part01\Chapter01\Section01\img\그림1.1.10.png" alt="그림1.1.10" style="zoom:80%;" />
+<img src="https://github.com/lee-jin-wo0/Engineer_Information_Processing/blob/main/Part01/Chapter01/Section01/img/%EA%B7%B8%EB%A6%BC1.1.10.png" style="zoom:80%;" />
 
 <br />
 
